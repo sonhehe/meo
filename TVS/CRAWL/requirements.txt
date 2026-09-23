@@ -1,4 +1,0 @@
-curl-cffi
-beautifulsoup4
-pandas
-openpyxl

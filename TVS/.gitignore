@@ -1,5 +1,0 @@
-CRAWL/__pycache__/
-CRAWL/*.pyc
-CRAWL/.*.tmp.xlsx
-CRAWL/raw_historical_indices - *.xlsx
-CRAWL/raw_indices.xlsx
